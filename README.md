@@ -3,12 +3,12 @@
 ## Table of Contents
 - [Project Overview](#project-oerview)
 - [Data Source](#data-source)
-- [Objectives](#Objectives)
-- [Key Insights](#Key-Insights)
-- [Dashboard Features](#Dashboard_Features)
-- [Dashboard Preview](#Dasboard-Preview)
-- [Recommendations](#Recommendations)
-- [Tools Used](#Tools-Used)
+- [Objectives](#objectives)
+- [Key Insights](#key-insights)
+- [Dashboard Features](#dashboard-features)
+- [Dashboard Preview](#dasboard-preview)
+- [Recommendations](#recommendations)
+- [Tools Used](#tools-used)
 
 
 ### 📊 Project Overview

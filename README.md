@@ -1,14 +1,14 @@
 # Eko-Hospital-Analysis
 
 ## Table of Contents
-- [Project Overview](Project-Overview)
-- [Data Source](Data-Source)
-- [Objectives](Objectives)
-- [Key Insights](Key-Insights)
-- [Dashboard Features](Dashboard_Features)
-- [Dashboard Preview](Dasboard-Preview)
-- [Recommendations](Recommendations)
-- [Tools Used](Tools-Used)
+- [Project Overview](#Project-Overview)
+- [Data Source](#Data-Source)
+- [Objectives](#Objectives)
+- [Key Insights](#Key-Insights)
+- [Dashboard Features](#Dashboard_Features)
+- [Dashboard Preview](#Dasboard-Preview)
+- [Recommendations](#Recommendations)
+- [Tools Used](#Tools-Used)
 
 
 ### 📊 Project Overview

@@ -1,5 +1,14 @@
 # Eko-Hospital-Analysis
 
+## Table of Contents
+- [Project Overview](Project_Overview)
+- [Data Source](Data_Source)
+- [Objectives](Objectives)
+- [Key Insights](Key_Insights)
+- [Dashboard Features](Dashboard_Features)
+- [Dashboard Preview](Dasboard_Preview)
+- [Recommendations](Recommendations)
+- [Tools Used](Tools_Used)
 ### 📊 Project Overview
 
 This dashboard provides an interactive overview of hospital performance, with KPIs focusing on patient demographics, doctor efficiency, and hospital service utilization. The goal of this analysis was to help hospital management make data driven decisions regarding patient care, staffing, and revenue optimization.
@@ -32,7 +41,7 @@ The primary dataset used for this analysis is the 'Eko_Hospital_Dataset_Updated'
 ### 📸 Dashboard Preview
 
 
-
+### Recommendations
 
 ### Tools
 

@@ -8,7 +8,7 @@
 - [Dashboard Features](#dashboard-features)
 - [Dashboard Preview](#dasboard-preview)
 - [Recommendations](#recommendations)
-- [Tools Used](#tools-used)
+- [Tools](#tools)
 
 
 ### 📊 Project Overview
@@ -44,6 +44,10 @@ The primary dataset used for this analysis is the 'Eko_Hospital_Dataset_Updated'
 
 
 ### Recommendations
+- Optimize Staffing
+- Strengthen Elderly Care
+- Reward high performing doctors
+- Enhance lab efficiency
 
 ### Tools
 
